@@ -1,0 +1,1 @@
+if (obj_kitchen_mod.water_done == true){instance_destroy();}

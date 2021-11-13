@@ -1,0 +1,1 @@
+if (obj_kitchen_mod.soda_done == true){instance_destroy();}
